@@ -1,0 +1,47 @@
+body{
+    background-image: url(../img/back3.jpg);
+    background-size: cover;
+}
+.user-box{
+    background-color: transparent;
+    padding: 120px;
+    max-width: 350px;
+    border: 0px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px 5px black;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.user-box h1{
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+.user-box form input{
+    width: 125px;
+    margin: 6px auto;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 25px;
+    background-color: gainsboro;
+    
+}
+.user-box form label{
+    color: whitesmoke;
+}
+#btn{
+    width: 150px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px black
+}
+.shadow{
+    box-shadow: 5px 5px 10px black;
+
+#gender{
+    width: 50px;
+    text-align: center;
+    
+}
+
+

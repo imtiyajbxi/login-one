@@ -1,0 +1,39 @@
+body{
+    background-image: url(../img/back4.jpg);
+    background-size: cover;
+}
+.remember{
+    padding: 120px;
+    max-width: 350px;
+    border: 0px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px 5px black inset;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+p{
+    color: blue;
+    text-shadow: .5px .5px black;
+}
+.remember form input{
+    width: 200px;
+    margin: 6px auto;
+    padding: 6px;
+    border: 1px solid blue;
+    border-radius: 25px;
+}
+.remember form label{
+    color: blue;
+}
+#clr{
+    color: blue;
+}
+.shadow{
+    box-shadow: 5px 5px 10px black;
+}
+h1{
+    color: blue;
+    text-shadow: 1px 1px black;
+}
+
