@@ -12,6 +12,7 @@ body{
     border: 1px solid transparent;
     border-radius: 25px;
     box-shadow: 5px 5px 10px 5px black;
+    backdrop-filter: blur(15px);
 }
 .admin-box h1{
     color: gray;
